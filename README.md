@@ -2,5 +2,6 @@
 
 Just another repository.
 
-I love :noodles: :pizza:, and :music:. 
+I love :ramen: :pizza:, and :musical_note:. 
 
+Welcome!
