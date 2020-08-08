@@ -2,5 +2,5 @@
 
 Just another repository.
 
-I love :Pho: :Pizza: :Music: 
+I love :noodles: :pizza:, and :music:. 
 
