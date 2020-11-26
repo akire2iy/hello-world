@@ -1,7 +1,7 @@
-# hello-world
+# Hello World
 
 Just another repository.
 
-I love :ramen: :pizza:, and :musical_note:. 
+I have a passion in :ramen: :pizza:, and :musical_note:. 
 
 Welcome!
